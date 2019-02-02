@@ -4,3 +4,5 @@ $(document).ready(function() {
     $("#new-goal").val("");
   })
 })
+
+// It was nice to meet you in class: Corey Haverda
